@@ -1,6 +1,6 @@
 package com.example.interfacesp;
 
-//import com.example.sqlite.MiBaseDatos;
+
 
 import android.os.Bundle;
 import android.app.Activity;

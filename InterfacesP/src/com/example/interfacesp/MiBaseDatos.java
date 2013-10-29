@@ -1,4 +1,4 @@
-//package com.example.interfacesp;
+//base de datos
 
 package com.example.interfacesp;
 
