@@ -1,4 +1,4 @@
-//base de datos
+//base de datos tabla_contactos
 
 package com.example.interfacesp;
 
