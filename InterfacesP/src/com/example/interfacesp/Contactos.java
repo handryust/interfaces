@@ -1,4 +1,4 @@
-//contactos
+//contacto
 package com.example.interfacesp;
 public class Contactos {
 
