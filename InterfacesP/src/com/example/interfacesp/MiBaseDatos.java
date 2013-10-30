@@ -1,5 +1,5 @@
 //base de datos 
-//asd
+//as
 
 package com.example.interfacesp;
 
