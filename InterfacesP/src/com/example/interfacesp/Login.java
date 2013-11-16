@@ -1,4 +1,4 @@
-//logear usuarios
+//logear usuarios US
 //as
 package com.example.interfacesp;
 
