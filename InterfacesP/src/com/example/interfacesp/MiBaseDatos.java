@@ -1,4 +1,4 @@
-//base de datos Rcc aaa
+//base de datos Rcc 
 
 
 package com.example.interfacesp;
