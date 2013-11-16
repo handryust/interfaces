@@ -1,4 +1,4 @@
-//base de datos Rcampos 
+//base de datos 
 //as
 
 package com.example.interfacesp;
